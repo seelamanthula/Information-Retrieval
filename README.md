@@ -1,5 +1,8 @@
 # Information-Retrieval
 
+#### Technologies used: Java, Apache Lucene
+#### Data Source: iit bombay - http://www.cfilt.iitb.ac.in/iitb_parallel/iitb_corpus_download, trec - http://trec.nist.gov/data.html
+
 # Cross-language information retrieval (CLIR)
 
 Implemented a variant of Information Retrieval system that would allow the user to type in queries in English and search documents 
